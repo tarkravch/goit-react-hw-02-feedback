@@ -1,0 +1,13 @@
+.block {
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.title {
+  display: block;
+  font-family: "Oxygen", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+}

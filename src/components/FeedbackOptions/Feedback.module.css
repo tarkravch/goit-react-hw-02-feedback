@@ -1,0 +1,23 @@
+.btn {
+  display: inline-block;
+  font-family: "Oxygen", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.15;
+  min-width: 30px;
+  height: 30px;
+  background-color: aquamarine;
+  border: 2px solid aqua;
+  border-radius: 10%;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.btn:last-child {
+  margin-right: 0;
+}
+
+.btn:hover {
+  background-color: bisque;
+  border: 2px solid tomato;
+}

@@ -1,0 +1,9 @@
+.option {
+  display: block;
+  margin: 0 auto 20px auto;
+  font-family: "Oxygen", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  font-style: normal;
+  color: cadetblue;
+}
